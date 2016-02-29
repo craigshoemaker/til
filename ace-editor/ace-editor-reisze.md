@@ -1,10 +1,4 @@
-﻿<!---
-|metadata|
-undefined
-|metadata|
---->
-
-# Resizing the ACE Editor 
+﻿# Resizing the ACE Editor 
 
 It's not enough to simply change the CSS values in an ACE editor in order to resize it, you must also call the [`resize`](https://github.com/josdejong/jsoneditor/issues/131#issuecomment-55874095) function after you have changed the CSS dimensions.
 
