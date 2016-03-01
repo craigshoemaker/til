@@ -1,5 +1,5 @@
 # Today I Learned
-Short write ups and code examples of thing I learned today.
+Short write ups and code examples of things I learned today.
 
 # License
 
