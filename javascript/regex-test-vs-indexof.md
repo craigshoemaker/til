@@ -1,4 +1,4 @@
-﻿# JavaScript RegEx match vs String indexOf
+﻿# JavaScript RegEx test vs String indexOf
 
 For too many years if I wanted to find out if a string contained a specific string (without using a third party library) I would use `indexOf` like this:
 
@@ -15,7 +15,7 @@ There is another approach using regular expressions that makes the code much mor
 ````
 var source = 'this is a test of the emergency broadcast system';
 
-if(/emergency/.match(source)){
+if(/emergency/.test(source)){
   console.log('we have a match!');
 }
 ````
